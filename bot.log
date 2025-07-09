@@ -1,0 +1,30 @@
+2025-07-09 12:43:26,272 - INFO - Bot initialized using Binance Futures Testnet.
+2025-07-09 12:44:03,065 - ERROR - Order failed: APIError(code=-4013): Price less than min price.
+2025-07-09 12:44:43,846 - INFO - Bot initialized using Binance Futures Testnet.
+2025-07-09 12:45:44,448 - ERROR - Order failed: APIError(code=-4013): Price less than min price.
+2025-07-09 12:50:13,393 - INFO - Bot initialized using Binance Futures Testnet.
+2025-07-09 12:50:30,165 - INFO - Order placed: {'orderId': 5229320889, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ9b75fc680ac079d28c90b9', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.100', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1752045633640}
+2025-07-09 12:50:56,705 - INFO - Bot initialized using Binance Futures Testnet.
+2025-07-09 12:51:18,399 - ERROR - Order failed: APIError(code=-4024): Limit price can't be lower than 54385.45.
+2025-07-09 12:58:54,922 - INFO - Bot initialized using Binance Futures Testnet.
+2025-07-09 13:00:00,033 - INFO - Bot initialized using Binance Futures Testnet.
+2025-07-09 13:01:58,920 - ERROR - Order failed: name 'ORDER_TYPE_STOP_MARKET' is not defined
+2025-07-09 13:05:23,639 - INFO - Bot initialized using Binance Futures Testnet.
+2025-07-09 13:05:47,940 - ERROR - Order failed: name 'ORDER_TYPE_STOP' is not defined
+2025-07-09 13:08:40,169 - INFO - Bot initialized using Binance Futures Testnet.
+2025-07-09 13:09:02,054 - ERROR - Order failed: name 'ORDER_TYPE_STOP' is not defined
+2025-07-09 13:09:59,280 - INFO - Bot initialized using Binance Futures Testnet.
+2025-07-09 13:10:21,956 - ERROR - Order failed: APIError(code=-1121): Invalid symbol.
+2025-07-09 13:11:35,031 - INFO - Bot initialized using Binance Futures Testnet.
+2025-07-09 13:11:56,710 - ERROR - Order failed: APIError(code=-1102): Mandatory parameter 'stopprice' was not sent, was empty/null, or malformed.
+2025-07-09 13:13:50,209 - INFO - Bot initialized using Binance Futures Testnet.
+2025-07-09 13:14:13,742 - ERROR - Order failed: APIError(code=-1102): Mandatory parameter 'stopprice' was not sent, was empty/null, or malformed.
+2025-07-09 13:51:36,453 - INFO - Bot initialized using Binance Futures Testnet.
+2025-07-09 13:55:29,252 - INFO - Bot initialized using Binance Futures Testnet.
+2025-07-09 13:56:09,005 - ERROR - Order failed: name 'ORDER_TYPE_STOP_LIMIT' is not defined
+2025-07-09 13:58:32,702 - INFO - Bot initialized using Binance Futures Testnet.
+2025-07-09 13:59:14,865 - ERROR - Order failed: APIError(code=-1022): Signature for this request is not valid.
+2025-07-09 14:00:40,971 - INFO - Bot initialized using Binance Futures Testnet.
+2025-07-09 14:01:13,371 - ERROR - Order failed: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-07-09 14:02:49,203 - INFO - Bot initialized using Binance Futures Testnet.
+2025-07-09 14:03:47,025 - INFO - Order placed: {'orderId': 5229538646, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJc2b53f187d864d4152197d', 'price': '57800.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'STOP', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '58000.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1752050030515}
